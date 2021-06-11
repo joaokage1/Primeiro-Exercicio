@@ -1,6 +1,6 @@
 package avaliacao.primeiro.exerc.cio;
 
-import avaliacao.primeiro.exercicio.PrimeiroExercicioApplication;
+import avaliacao.primeiro.exercicio.Solution;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -8,11 +8,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class PrimeiroExercicioApplicationTests {
 
-	static PrimeiroExercicioApplication app;
+	static Solution app;
 
 	@BeforeAll
 	static void initialize(){
-		app = new PrimeiroExercicioApplication();
+		app = new Solution();
 	}
 
 	@Test
