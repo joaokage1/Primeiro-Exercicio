@@ -25,5 +25,3 @@ retornar 553.
  - Collections
  - stream API
  - jUnit
-
-![res](https://github.com/joaokage1/image/blob/main/solucao1.PNG)
