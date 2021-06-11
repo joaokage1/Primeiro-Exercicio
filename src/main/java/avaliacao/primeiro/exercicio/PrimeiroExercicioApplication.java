@@ -39,7 +39,7 @@ public class PrimeiroExercicioApplication {
 
 			retorno = Integer.parseInt(valorFinal);
 		} catch (NumberFormatException e){
-			log.error("O valor não pode ser lido, ultrapassa do tamanho do inteiro");
+			log.error("O valor não pode ser lido, ultrapassa o tamanho de um inteiro");
 		}
 
 		return retorno;
